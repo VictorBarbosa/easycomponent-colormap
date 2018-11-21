@@ -1,7 +1,7 @@
 "# easycomponent-colormap" 
 
 
-1- npm install easycomponent --save
+1- npm install easycomponent-colormap --save
 
 
 ![Screenshot](documentation/1-step.png)
