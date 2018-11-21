@@ -25,7 +25,7 @@
 
 | Output                        | Input         |  
 | -------------                 |:-------------:|  
-| (setColr)="method($event)     |  NONE         |  
+| (setColor)="method($event)     |  NONE         |  
 |                               |               |  
 |                               |               |  
 
