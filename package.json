@@ -1,0 +1,12 @@
+{
+  "name": "easycomponent-colormap",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "author": {
+    "name": "victor barbosa",
+    "url": "git+https://github.com/VictorBarbosa/easycomponent-colormap.git"
+  }
+}
